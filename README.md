@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.\
-🌱 &nbsp;I'm on track for learning more about Android Development and Ethical Hacking.\
+🌱 &nbsp;I'm a full-stack Web Developer and currently on track for learning more about Android Development and Dev Ops.\
 ✍️ &nbsp;In my free time, I pursue Web Design and Playing Games as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at niks.a3198@gmail.com! I'll try to respond as soon as I can.
