@@ -5,10 +5,10 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.\
-🌱 &nbsp;I'm a full-stack Web Developer and currently on track for learning more about Android Development and Dev Ops.\
+🌱 &nbsp;I'm a full-stack Web Developer and I love systems as in servers, APIs, DevOps. Still, somehow, front-end is where my skills shine.\
 ✍️ &nbsp;In my free time, I pursue Web Design and Playing Games as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at niks.a3198@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at me@theninza.me! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -44,7 +44,7 @@
 <p align="center">
 <a href="https://theninza.me"><img src="https://img.shields.io/badge/-theninza.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/theninza"><img src="https://img.shields.io/badge/-Nikhil%20Kumar%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:niks.a3198@gmail.com"><img src="https://img.shields.io/badge/-niks.a3198@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:me@theninza.me"><img src="https://img.shields.io/badge/-niks.a3198@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/nik_gupta._/"><img src="https://img.shields.io/badge/-@nik_gupta.__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/theninzza"><img src="https://img.shields.io/badge/-@theninzza-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
