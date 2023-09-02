@@ -4,7 +4,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.\
+🎓 &nbsp;I completed my studies in Computer Science and Engineering at the Indian Institute of Information Technology, Gwalior.\
 🌱 &nbsp;I'm a full-stack Web Developer and I love systems as in servers, APIs, DevOps. Still, somehow, front-end is where my skills shine.\
 ✍️ &nbsp;In my free time, I pursue Web Design and Playing Games as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
